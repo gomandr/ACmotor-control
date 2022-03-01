@@ -1,4 +1,4 @@
-# AC motor control - Class project - Mai 2019
+# DC motor control - Class project - Mai 2019
 
 ### Students : Colomban Fussinger, André Gomes, Nicolas Lefebure
 
