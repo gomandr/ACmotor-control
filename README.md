@@ -2,4 +2,4 @@
 
 ### Students : Colomban Fussinger, André Gomes, Nicolas Lefebure
 
-Really basic AC motor control with UART communication using an ATmega32 microcontroller.
+DC motor control with UART communication using an ATmega32 microcontroller.
